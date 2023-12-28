@@ -1,0 +1,7 @@
+name: Router_Hell
+displayName: Router Hell
+author: SDcube
+description: The neoplasm of Serpulo.
+version: "1.0"
+minGameVersion: "136"
+hideBrowser: false
